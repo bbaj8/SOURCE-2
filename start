@@ -18,7 +18,7 @@ _get_repolink () {
             echo "${UPSTREAM_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL2JiYWo4L1NPVVJDRS1EZXZpbC9hcmNoaXZlL21hc3Rlci56aXA==" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL2JiYWo4L1NPVVJDRS1EZXZpbC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
