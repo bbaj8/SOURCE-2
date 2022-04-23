@@ -3,7 +3,7 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "WALE-Ar" ]]
+    if [[ $UPSTREAM_REPO == "SOURCE-Devil" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1dBTEVVU0VSQk9UL1dBTEVVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $UPSTREAM_REPO == "WALE-Ar" ]]
@@ -24,15 +24,15 @@ _get_repolink () {
 
 
 _setting_bot () {
-    local zippath
-    zippath="iqthon.zip"
+    local SOURCE-Devil
+    SOURCE-Devil="SOURCE-Devil.zip"
     echo "   تنزيل اكواد السورس ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  تنزيل تخزين السورس ..."
     CATPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "تم الانتهاء"
-    rm -rf "$zippath"
+    rm -rf "$SOURCE-Devil"
     sleep 5
     cd $CATPATH
     echo "جـاري الاسـتراد الـوالي الـعرب  ..."
