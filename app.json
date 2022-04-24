@@ -37,7 +37,7 @@
       "required": false
     },
     "UPSTREAM_REPO": {
-      "description": "لاتـغيره! ",
+      "description": "لاتـغيره! اكتب /skip ",
       "value": "SOURCE-Devil",
       "required": false
     }
