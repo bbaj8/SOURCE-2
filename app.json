@@ -1,9 +1,9 @@
 {
-  "name": "سورس والي | WALE SOURCE",
-  "description": "تنصيب سورس والي الاصلي معرف قناتنا @ioi_t",
+  "name": "سورس دايفل العرب| SOURCE",
+  "description": "تنصيب سورس دايفل العرب الاصلي معرف قناتنا @R125R",
   "logo": "https://telegra.ph/file/5fda4f37ae7c9f7ac449c.jpg",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
-  "repository": "https://github.com/WALEUSERBOT/WALEUSERHELP",
+  "repository": "https://github.com/bbaj8/SOURCE-2",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
