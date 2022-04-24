@@ -8,7 +8,7 @@
 
 
 
-[![نصب الان من هنا](https://github.com/bbaj8/SOURCE-2/tree/main
+[![نصب الان من هنا]https://telegram.dog/XTZ_HerokuBot?start=YmJhajgvU09VUkNFLTIgbWFpbg
 
 
 **its simple source based on catuserbot but in arabic language !**
