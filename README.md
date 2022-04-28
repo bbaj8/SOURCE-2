@@ -1,19 +1,13 @@
+# jmthon userbot
 
-# *اهلا بكم في سورس دايفل*
-# ___________________________
+## اهـلا بـك
 
-**سورس دايفل العرب هو سورس جديد ومحدث ويحتوي على الكثير من الاضافات والتحديثات الجديدة**
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/pack)
 
-[قناة السورس على نلكرام](https://t.me/R125R)
-
-
-
-[![نصب الان من هنا]https://telegram.dog/XTZ_HerokuBot?start=YmJhajgvU09VUkNFLTIgbWFpbg
+## شكـرا لكـم 
 
 
-**its simple source based on catuserbot but in arabic language !**
-__________________________
-**[wale userbot](https://t.me/R125R)**
-**[catuserbot](https://github.com/)**
-__________________________
-**and thanks to telethon arab source**
+this userbot is import of catuserbot and translate to arabic
+
+https://t.me/catuserbot_support
+https://t.me/jmthon
